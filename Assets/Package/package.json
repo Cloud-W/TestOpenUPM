@@ -1,0 +1,22 @@
+{
+  "name": "com.aframework.core",
+  "displayName": "AFrameWork Core",
+  "version": "1.0.2",
+  "unity": "2021.1",
+  "keywords": [
+    "AFrameWork",
+    "Core"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@git.amberweather.com:Game/AFrameWork.git?path=/Assets/Moudle/Core"
+  },
+  "description": "A 框架的 [核心库] 有什么用处就不用我多说了吧",
+  "dependencies": {
+    "com.coffee.upm-git-extension":"1.3.4"
+  },
+  "author": {
+    "name": "suoyike",
+    "email": "suoyike@amberweather.com"
+  }
+}
